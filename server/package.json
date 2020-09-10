@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0",
+    "vue-socket.io": "^3.0.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
